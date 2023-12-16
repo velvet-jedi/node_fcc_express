@@ -1,0 +1,1 @@
+This is a result of node's native option of async patterns with util module applied on first and second
